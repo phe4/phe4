@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ping He
 - 👀 I’m interested in software development and game development
-- 🌱 I’m currently learning computer science at Northwestern University
 - 📫 How to reach me: 
      Email: hxxp0204@gmail.com
      LinkedIn: https://www.linkedin.com/in/ping-he-9a4994195
